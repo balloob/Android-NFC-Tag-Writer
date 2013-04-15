@@ -5,6 +5,8 @@ You can use this app to prepare your NFC tags to work with your own application.
 
 It is based on this tutorial: http://www.jessechen.net/blog/how-to-nfc-on-the-android-platform/
 
-Min Android version: 4.1.2
+Min Android version: 4.1
+
+App on the playstore: https://play.google.com/store/apps/details?id=nl.paulus.nfctagwriter
 
 ![screenshot](https://github.com/balloob/Android-NFC-Tag-Writer/raw/master/screenshot.png)
